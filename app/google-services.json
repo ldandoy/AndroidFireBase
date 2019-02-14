@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180022066974",
+    "firebase_url": "https://hybrid-app-29b0f.firebaseio.com",
+    "project_id": "hybrid-app-29b0f",
+    "storage_bucket": "hybrid-app-29b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180022066974:android:583d52ff37f9ef2a",
+        "android_client_info": {
+          "package_name": "com.example.loicdandoy.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180022066974-0uiok9idq9p28a5jnd5is0cb0a4fuql6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXz7Ov9N-VzTeY2uoC77sTxk-bvRcLMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
