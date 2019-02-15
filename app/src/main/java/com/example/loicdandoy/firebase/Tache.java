@@ -8,13 +8,13 @@ public class Tache {
 
     public Integer id;
     public String label;
-    public Boolean status;
+    public String status;
 
     public Tache() {
         // Default constructor required for calls to DataSnapshot.getValue(User.class)
     }
 
-    public Tache(Integer id, String label, Boolean status) {
+    public Tache(Integer id, String label, String status) {
         this.id = id;
         this.label = label;
         this.status = status;
